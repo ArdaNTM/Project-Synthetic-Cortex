@@ -7,6 +7,19 @@ Project Synthetic Cortex is a **Brain-Computer Interface (BCI)** initiative aime
 ## 🚀 Vision
 This project is not just a repository of code; it is the foundation of a future where paralyzed individuals can control robotic limbs, and humans form a symbiotic bond with artificial intelligence. Our ultimate goal is to translate neural signals into machine language with the lowest possible latency and the highest accuracy.
 
+## 📸 Interface Showcase
+
+Here is a glimpse of the **Neural Operating System (v3.0)** featuring real-time EEG decoding, hardware setup, and dynamic calibration.
+
+![Main Menu](assets/main_menu.png)
+*Modern, cyberpunk-inspired main menu with Database and Live Hardware modes.*
+
+![Hardware Setup](assets/hardware_setup.png)
+*Real-time hardware verification using the BrainFlow library.*
+
+![Live Neural HUD](assets/live_hud.png)
+*Live simulation HUD displaying ground truth, AI decision, confidence bar, and real-time EEG signals.*
+
 ## 🛠 Current State: Phase 1 (Neural Motor Decoding)
 The current release (v2.0) is a working Proof of Concept (PoC) that processes raw EEG signals from the scalp to distinguish between right-hand and left-hand motor imagery.
 
