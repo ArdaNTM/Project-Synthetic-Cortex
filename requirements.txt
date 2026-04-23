@@ -1,4 +1,7 @@
-mne
+mne==1.6.1
 numpy
 pygame
 scikit-learn
+tensorflow
+moabb
+brainflow
